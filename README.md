@@ -23,7 +23,7 @@ Esto es un test para ver cómo funciona la plataforma jejej
 
 # Otros recursos
 
-## Image
+## Campos se soya
 
 _Campos de soya_ Esto es un intento para ver si esto funciona.[^1]
 <param ve-image 

@@ -21,30 +21,24 @@ Esto es un test para ver cómo funciona la plataforma jejej
 <param ve-image 
        manifest="https://conceptodefinicion.de/wp-content/uploads/2020/09/ganaderia.jpg">
 
-# Otros recursos
 
-## Campos se soya
+## Campos de soya
 
-_Campos de soya_ Esto es un intento para ver si esto funciona.[^1]
+_Campos de soya_ Esto es un intento para ver si esto funciona.
 <param ve-image 
        label="Campos de soya" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://panorama-agro.com/wp-content/uploads/2017/10/Portada-soya-2f.jpg">
 
-## Map
+## Campos de almendros en California
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+_Campos de almendros_ Esto es un intentoooo,
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+       label="Campos de almendros" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://elviajero.elpais.com/elviajero/imagenes/2018/01/26/actualidad/1516985339_058099_1516987049_sumario_grande.jpg">
 
 # References
 

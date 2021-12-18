@@ -36,14 +36,14 @@ _Campos de soya_ Esto es un intento para ver si esto funciona.
 
 ## Campos de almendros en California
 
-_Campos de almendros_ Esto es un intentoooo,
+_Campos de almendros_ Esto es un intentoooo
 <param ve-image 
        label="Campos de almendros" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://elviajero.elpais.com/elviajero/imagenes/2018/01/26/actualidad/1516985339_058099_1516987049_sumario_grande.jpg">
 
-# References
+# Referencias
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+
 

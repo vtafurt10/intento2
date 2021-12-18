@@ -5,7 +5,7 @@ intento2<a href="https://juncture-digital.org"><img src="https://juncture-digita
        title="Esto es un intento hecho por Valeria"
        author="Valeria Tafurt Ortegón"
        banner="https://concepto.de/wp-content/uploads/2019/12/ganaderia-e1577324681175.jpg" 
-       layout="horizontal">
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -23,6 +23,7 @@ Esto es un test para ver cómo funciona la plataforma jejej
 
 # Otros recursos
 
+## Image
 
 _Campos de soya_ Esto es un intento para ver si esto funciona.[^1]
 <param ve-image 

@@ -2,10 +2,10 @@
 intento2<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="vertical">
+       title="Esto es un intento hecho por Valeria"
+       author="Valeria Tafurt Ortegón"
+       banner="https://concepto.de/wp-content/uploads/2019/12/ganaderia-e1577324681175.jpg" 
+       layout="horizontal">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -15,19 +15,18 @@ intento2<a href="https://juncture-digital.org"><img src="https://juncture-digita
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Intento sobre ganadería xd
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Esto es un test para ver cómo funciona la plataforma jejej
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://conceptodefinicion.de/wp-content/uploads/2020/09/ganaderia.jpg">
 
-# Basic usage
+# Otros recursos
 
-## Image
 
-_Girl with a Pearl Earring_ Esto e sun intento para ver si esto funciona.[^1]
+_Campos de soya_ Esto es un intento para ver si esto funciona.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
+       label="Campos de soya" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://panorama-agro.com/wp-content/uploads/2017/10/Portada-soya-2f.jpg">

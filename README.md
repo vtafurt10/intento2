@@ -19,7 +19,7 @@ intento2<a href="https://juncture-digital.org"><img src="https://juncture-digita
 
 Esto es un test para ver cómo funciona la plataforma jejej
 <param ve-image 
-       manifest="https://conceptodefinicion.de/wp-content/uploads/2020/09/ganaderia.jpg">
+       manifest="https://www.lavanguardia.com/files/image_948_465/uploads/2018/11/05/5e996514f272d.jpeg">
 
 
 ## Campos de soya
